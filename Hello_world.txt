@@ -1,6 +1,6 @@
-print("Hello, world!")
-print("Hello to everyone!")
-print("Hi!")
-print("Hello, dear friend!")
+print("Hello, world!");
+print("Hello to everyone!");
+print("Hi!");
+print("Hello, dear friend!");
 print("How are you doing?!")
 print("Glad to see you again!)
